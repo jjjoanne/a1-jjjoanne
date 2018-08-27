@@ -3,7 +3,7 @@ Replace the contents of this module docstring with your own details
 Name:
 Date started:
 GitHub URL:
-tested on ...
+tested on ......
 """
 
 
